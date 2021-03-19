@@ -25,6 +25,7 @@ He is currently working as a research scientist in Experimental Power Grid Cente
 * Power System Analysis and Control
 * Smart AI and IoT
 
+<!---
 ## Research and Working Experience
 
 * 02/2019 - Present
@@ -32,4 +33,4 @@ He is currently working as a research scientist in Experimental Power Grid Cente
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __Research Scientist__ at Nanyang Technological University (NTU)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sun Lu is a research scientist at the Experimental Power Grid Centre (EPGC), Energy Research Institute @ NTU (ERI@N), NTU. His research
-
+--->
