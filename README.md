@@ -29,4 +29,4 @@ He is currently working as a research scientist in Experimental Power Grid Cente
 
 * 02/2019 - Present
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Scientist
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __Research Scientist__ at Experimental Power Grid Centre, Energy Research Institute @ N
