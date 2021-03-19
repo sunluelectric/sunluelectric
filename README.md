@@ -28,4 +28,5 @@ He is currently working as a research scientist in Experimental Power Grid Cente
 ## Research and Working Experience
 
 * 02/2019 - Present
-Research Scientist
+
+&nbsp;Research Scientist
