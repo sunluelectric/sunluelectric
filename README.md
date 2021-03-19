@@ -10,4 +10,4 @@ sunluelectric/sunluelectric is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Sun Lu (Ph.D., B.Eng., Professornal Engineer)
+# Sun Lu (Ph.D., B.Eng., Professional Engineer)
