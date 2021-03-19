@@ -25,6 +25,7 @@ He is currently working as a research scientist in Experimental Power Grid Cente
 * Power System Analysis and Control
 * Smart AI and IoT
 
+<!---
 ## Research and Working Experience
 
 02/2019 - Present: __Research Scientist__ at Nanyang Technological University (NTU)
@@ -32,4 +33,4 @@ He is currently working as a research scientist in Experimental Power Grid Cente
 Sun Lu is a research scientist at the Experimental Power Grid Centre (EPGC), Energy Research Institute @ NTU (ERI@N), NTU. His research interests include the design and implementaton of distributed cotnrol algorithms on microgrid distributed energy resources, and the unitization of advanced control and optimization methods on power system applications.
 * Project: Performance Testing of AGC Signals on Energy Storage Systems (Mar. 2020 - Oct. 2020)
   * Collaborator: 
-
+--->
