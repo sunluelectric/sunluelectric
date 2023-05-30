@@ -13,9 +13,11 @@ You can click the Preview link to take a look at your changes.
 # Sun Lu 
 *__(Ph.D., B.Eng., Professional Engineer)__*
 
-Lu SUN received his bachelor's degree from the Department of Electrical Engineering and Automation, Honors School, Harbin Institute of Technology (HIT) and his Ph.D. from the Department of Electrical and Computer Engineering, Faculty of Engineering, National University of Singapore (NUS).
+Lu SUN received his bachelor's degree from the Department of Electrical Engineering and Automation, Honors School, Harbin Institute of Technology (HIT) and his Ph.D. from the Department of Electrical and Computer Engineering, Faculty of Engineering, National University of Singapore (NUS). His research background is robust statistics, control systems, and their applications in smart grids.
 
-He is currently working as a research scientist in Experimental Power Grid Center (EPGC) as part of the Energy Research Institute at Nanyang Technological University (NTU). His research interests mainly include robust statistics, robust control systems, adaptive control systems, distributed control systems and their applications in power systems.
+From 2019 to 2022, he worked as a research scientist and a principal investigator in Experimental Power Grid Center (EPGC), as part of Agency for Science, Technology and Research (A*STAR) and the Energy Research Institute at Nanyang Technological University (ERI@N, NTU). His research projects included design and development of renewable energy solutions while maintaining power system stability and resilience.
+
+Since 2022, he has been working as a senior scientist in Halliburton. His work focuses on system identification, performance analysis and improvement, control, and ontology build up in smart directional drillings.
 
 ## Research Interests
 * Advanced Control Theory
